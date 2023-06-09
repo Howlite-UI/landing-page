@@ -1,9 +1,17 @@
-a {
-
-    background-color: #fdefdf;
-    position: relative;
+h4 {
+    background-color: white;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    left: 30px;
 }
 
-img {
-    width: 300px;
+
+p {
+    background-color: darkgreen;
+    position: absolute;
+    padding: 5px;
+    color: white;
+    top: 150px;
+    left: 220px;
 }
